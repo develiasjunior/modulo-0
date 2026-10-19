@@ -1,0 +1,1 @@
+Esse repósitório sever de aprendizado apenas, estou estudando HTML,CSS e JS e aprendendo ferramentas básicas que vou ter que usar no mercado de trabalho como usar o terminal, usar o git e github da forma que o mercado de trabalho exige!
